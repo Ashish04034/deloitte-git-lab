@@ -1,0 +1,3 @@
+Name: Ashish
+Role: Analyst Trainee
+Tech: Git/GitHub
